@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="forecast_description" translatable="false">- -</string>
+    <string name="share_button" translatable="false">Share button</string>
+    <string name="text_field_search_icon" translatable="false">Text field search icon</string>
+    <string name="weather_image" translatable="false">Weather image</string>
+    <string name="input_your_city">Enter your city</string>
+    <string name="right_now">Right now</string>
+    <string name="feels_like">Feels like %1$s</string>
+    <string name="min_temp">Min. temp. = %1$s</string>
+    <string name="max_temp">Max. temp. = %1$s</string>
+    <string name="сurrent_weather_forecast">Current weather forecast</string>
+    <string name="forecast_send_message">At the moment, the temperature in the city %1$s is %2$s°C</string>
+    <string name="forecast_send_message_exception">The entered city was not found</string>
+</resources>

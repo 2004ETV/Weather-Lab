@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Weather-Compose</string>
+    <string name="window_exception" translatable="false">Not in an activity - unable to get Window reference</string>
+</resources>

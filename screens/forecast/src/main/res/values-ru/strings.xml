@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_your_city">Введите свой город</string>
+    <string name="right_now">Прямо сейчас</string>
+    <string name="feels_like">Ощущается как %1$s</string>
+    <string name="сurrent_weather_forecast">Прогноз погоды на данный момент</string>
+    <string name="forecast_send_message">На данный момент в городе %1$s температура составляет %2$s°C</string>
+    <string name="forecast_send_message_exception">Введенный город не был найден</string>
+    <string name="min_temp">Макс. темп. = %1$s</string>
+    <string name="max_temp">Мин. темп. = %1$s</string>
+</resources>
